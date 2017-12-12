@@ -6,7 +6,6 @@ category: tech
 tags: [ 'programacao', 'desenvolvimento de software', 'programador', 'sistema da informacao' ]
 author: Alex Silva
 ---
-![Rob Pike's 5 Rules of Programming](https://i.imgur.com/0RYjyZ9.jpg)
 
 **Tradução livre do texto: “[Rob Pike’s 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)”**
 
