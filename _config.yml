@@ -1,6 +1,6 @@
 # Site
 title:              Alex Silva
-bio:                'Minimal, one column jekyll theme.'
+bio:                'Alex Silva - Programador e UI/UX designer freelancer.'
 description:        "Alex Silva - Programador e UI/UX designer freelancer."
 reading_time:       true
 words_per_minute:   200
@@ -8,8 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:                https://ialexsilva.github.io/Moon
-
+url:                http://ialexsilva.com
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -26,7 +25,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   ialexsilva
 
 # Social
 # if you don't have any of social below, comment the line.
