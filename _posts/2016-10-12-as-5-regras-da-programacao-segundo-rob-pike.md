@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: As 5 Regras da Programação - segundo Rob Pike
+title: As 5 regras da programação - segundo Rob Pike
 category: tech
 tags: [ 'programacao', 'desenvolvimento de software', 'programador', 'sistema da informacao' ]
 author: Alex Silva
