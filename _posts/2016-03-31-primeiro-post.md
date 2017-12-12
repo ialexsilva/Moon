@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: primeiro post
+title: Primeiro post
 category: geral
 tags: [ 'bem-vindo', 'hello world', 'primeiro post' ]
 author: Alex Silva
