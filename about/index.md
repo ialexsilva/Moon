@@ -7,7 +7,7 @@ comments: false
 ---
 
 ## Sobre mim
-Meu nome é **Alex Silva** (muito prazer). Tenho 23 anos e sou programador freelancer metido a designer. Geek apaixonado por tecnologia, games, animes e cinema. 
+Meu nome é **Alex Silva** (muito prazer). Tenho 24 anos e sou programador freelancer metido a designer. Geek apaixonado por tecnologia, games, animes e cinema. 
 
 Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. Em meu tempo livre gosto de jogar, praticar programação e ajudar na tradução de alguns projetos.
 
