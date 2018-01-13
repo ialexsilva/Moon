@@ -11,7 +11,7 @@ tag:
 comments: true
 ---
 
-![uBlock Origin Logo](link)    
+![uBlock Origin Logo](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/UBlock_Origin_logo.png)    
 
 Uma das primeiras coisas que eu faço após instalar o navegador é procurar um bloqueador de anúncios para se livrar de uma parte dos anúncios abusivos que preenchem a interwebs.
 

@@ -10,7 +10,7 @@ tag:
 - ads
 comments: true
 ---
-![AdGuard Logo](link)    
+![AdGuard Logo](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/adguard_logo.png)    
 
 **AdGuard** é mais do que só um bloqueador de anúncios, ele é composto com diversas ferramentas que ajudam no gerenciamento e controle do que entra e sai no fluxo da sua rede.
 
