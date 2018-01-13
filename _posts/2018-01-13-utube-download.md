@@ -25,6 +25,6 @@ Foram mais de 3 anos de desenvolvimento, mais ele finalmente está disponivel. *
 
 ![Screenshot site do uTube Download](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/screenshot_utube_site.png)
 
-**Acesse agora mesmo o site do [uTube Download](http://utubedownload.me).**
+Acesse agora mesmo o site do [uTube Download](http://utubedownload.me) e faça o download do seus vídeos e músicas favoritas.
 
 
