@@ -21,10 +21,10 @@ Em 2010 criei um programa chamado **YT Downloader** que era exclusivo para Windo
 
 Com o tempo as aplicações web (web app) se tornaram populares e surgiram varios outros concorrentes do YT Download totalmente integrado ao navegador. Levando esses fatores em conta acabei decidindo que era melhor interromper o desenvolvimento do YT Downloader e focar em uma aplicação web.
 
-Foram mais de 3 anos de desenvolvimento, mais ele finalmente está disponivel. **uTube Download** Robusto e ainda muito melhor do que antes, suportando o download de até 600 sites de mídia.
+Foram mais de 3 anos de desenvolvimento, mais ele finalmente está disponivel. **[uTube Download](http://utubedownload.me)** Robusto e ainda muito melhor do que antes, suportando o download de até 600 sites de mídia.
 
 ![Screenshot site do uTube Download](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/screenshot_utube_site.png)
 
-Acesse agora mesmo o site do [uTube Download](http://utubedownload.me).
+**Acesse agora mesmo o site do [uTube Download](http://utubedownload.me).**
 
 
