@@ -23,5 +23,10 @@ Além disso gerencio a plataforma de tradução aprovando, reprovando as traduç
 
 Caso você queira testar a extensão iréi deixar o link para os navegadores disponíveis.
 
+[Firefox](https://addons.mozilla.org/addon/ublock-origin/)
+[Google Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+[Opera](https://addons.opera.com/en-gb/extensions/details/ublock/)
+[Microsoft Edge](https://www.microsoft.com/pt-br/store/p/ublock-origin/9nblggh444l4)
+
 
 
