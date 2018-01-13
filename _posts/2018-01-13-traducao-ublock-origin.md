@@ -6,10 +6,12 @@ excerpt: "Bloqueador de anúncios gratuito e de código aberto"
 project: true
 tag:
 - adblock 
-- adguard
+- ublock
 - ads
 comments: true
 ---
+
+![uBlock Origin Logo](link)    
 
 Uma das primeiras coisas que eu faço após instalar o navegador é procurar um bloqueador de anúncios para se livrar de uma parte dos anúncios abusivos que preenchem a interwebs.
 

@@ -6,11 +6,11 @@ excerpt: "Bloqueador de anúncios gratuito de código aberto"
 project: true
 tag:
 - adblock 
-- ublock
+- adguard
 - ads
 comments: true
 ---
-
+![AdGuard Logo](link)    
 
 **AdGuard** é mais do que só um bloqueador de anúncios, ele é composto com diversas ferramentas que ajudam no gerenciamento e controle do que entra e sai no fluxo da sua rede.
 
