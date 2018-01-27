@@ -30,7 +30,12 @@ disqus_shortname:   ialexsilva
 # Social
 # if you don't have any of social below, comment the line.
 google:
-analytics:          UA-27850755-5
+  #plus:
+  analytics:        UA-27850755-5
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
 email:              contato@ialexsilva.com
 twitter:            ialexsilva
 facebook:           ialexsilva
@@ -38,13 +43,13 @@ github-url:         ialexsilva
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           ialexsilva
 #xing:              username
-#instagram:          ialexsilva
+#instagram:         ialexsilva
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:             username
+#steam:             ialexsilva
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
