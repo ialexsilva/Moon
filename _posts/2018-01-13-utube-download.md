@@ -2,7 +2,7 @@
 layout: post
 title:  "uTube Download"
 date:   2018-01-13
-excerpt: "Baixe vídeo e áudio do Youtube e mais de 600 sites."
+excerpt: "Baixe vídeo e áudio do Youtube e mais de 700 sites."
 project: true
 tag:
 - download 
