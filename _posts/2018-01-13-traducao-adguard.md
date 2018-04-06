@@ -12,13 +12,13 @@ comments: true
 ---
 ![AdGuard Logo](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/adguard_logo.png)    
 
-**AdGuard** é mais do que só um bloqueador de anúncios, ele é composto com diversas ferramentas que ajudam no gerenciamento e controle do que entra e sai no fluxo da sua rede.
+**AdGuard** é mais do que só um bloqueador de anúncios, ele é um canivete suiço composto com diversas ferramentas que ajudam no gerenciamento e controle do que entra e sai no fluxo da sua rede.
 
-Meu trabalho no AdGuard é na i18n(tradução) para o português brasileiro. 
+Meu trabalho no AdGuard é na i18n (Internacionalização) para o português brasileiro. 
 
-Sou responsavél por traduzir todos os clientes (AdGuard para Windows, MacOS, Android e iOS) e o site.
+Sou responsavél por traduzir todos os clientes AdGuard para Windows, MacOS, Android e iOS e o site.
 
-Além disso gerencio a plataforma de tradução aprovando, reprovando as traduções feitos por outros colaboradores.
+Além disso gerencio a plataforma de tradução aprovando, reprovando e padronizando as traduções feitos por outros colaboradores.
 
-Recomendo muito esse programa para você não gosta de anúncios. https://adguard.com/pt_br/welcome.html
+Recomendo muito esse programa para aqueles que não gostam de anúncios abusivos e irritantes. https://adguard.com/pt_br/welcome.html
 
