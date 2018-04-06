@@ -17,7 +17,7 @@ Uma das primeiras coisas que eu faço após instalar o navegador é procurar um 
 
 **uBlock Origin** é uma extensão para os navegadores populares que  bloqueia anúncios, pop-ups, rastreamentos e mineração de bitcoins.
 
-Sou tradutor official official (pt-BR) dessa extensão. 
+Sou tradutor official (pt-BR) dessa extensão. 
 
 Além disso gerencio a plataforma de tradução aprovando, reprovando as traduções feitos por outros colaboradores.
 
