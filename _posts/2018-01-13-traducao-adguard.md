@@ -20,5 +20,8 @@ Sou responsavél por traduzir todos os clientes AdGuard para Windows, MacOS, And
 
 Além disso gerencio a plataforma de tradução aprovando, reprovando e padronizando as traduções feitos por outros colaboradores.
 
-Recomendo muito esse programa para aqueles que não gostam de anúncios abusivos e irritantes. https://adguard.com/pt_br/welcome.html
+Recomendo muito esse programa para aqueles que não gostam de anúncios abusivos e irritantes. 
+
+Caso queira testar [clique aqui para visistar o site oficial do AdGuard](https://adguard.com/pt_br/welcome.html)
+
 
