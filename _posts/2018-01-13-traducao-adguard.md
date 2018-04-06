@@ -2,7 +2,7 @@
 layout: post
 title:  "Tradução AdGuard"
 date:   2018-01-13
-excerpt: "Bloqueador de anúncios mais avançado do mundo!"
+excerpt: "O bloqueador de anúncios mais avançado do mundo!"
 project: true
 tag:
 - adblock 
