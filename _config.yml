@@ -5,7 +5,7 @@ description:        "Alex Silva - Programador e UI/UX designer freelancer."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/background01.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
 url:                https://ialexsilva.com
