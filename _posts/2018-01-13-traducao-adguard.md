@@ -8,6 +8,7 @@ tag:
 - adblock 
 - adguard
 - ads
+- tradução
 comments: true
 ---
 ![AdGuard Logo](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/adguard_logo.png)    
@@ -16,12 +17,10 @@ comments: true
 
 Meu trabalho no AdGuard é na i18n (Internacionalização) para o português brasileiro. 
 
-Sou responsavél por traduzir todos os clientes AdGuard para Windows, MacOS, Android e iOS e o site.
+Sou responsavél por traduzir todos os produtos do AdGuard e o site.
 
-Além disso gerencio a plataforma de tradução aprovando, reprovando e padronizando as traduções feitos por outros colaboradores.
+Além disso gerencio a plataforma de tradução aprovando, reprovando e padronizando as traduções feitas por outros colaboradores.
 
 Recomendo muito esse programa para aqueles que não gostam de anúncios abusivos e irritantes. 
 
-Caso queira testar [clique aqui para visistar o site oficial do AdGuard](https://adguard.com/pt_br/welcome.html)
-
-
+Caso queira testar [clique aqui para visitar o site oficial do AdGuard](https://adguard.com/pt_br/welcome.html)

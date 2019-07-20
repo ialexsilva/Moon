@@ -8,6 +8,7 @@ tag:
 - adblock 
 - ublock
 - ads
+- tradução
 comments: true
 ---
 
@@ -19,7 +20,7 @@ Uma das primeiras coisas que eu faço após instalar o navegador é procurar um 
 
 Sou tradutor official (pt-BR) dessa extensão. 
 
-Além disso gerencio a plataforma de tradução aprovando, reprovando e padronizando as traduções feitos por outros colaboradores.
+Além disso gerencio a plataforma de tradução aprovando, reprovando e padronizando as traduções feitas por outros colaboradores.
 
 Caso você queira testar a extensão iréi deixar o link para os navegadores disponíveis.
 
