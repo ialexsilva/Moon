@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tradução NetSarang"
-date:   2019-07-23
+date:   2019-07-20
 excerpt: "Tradução dos produtos da NetSarang"
 project: true
 tag:
