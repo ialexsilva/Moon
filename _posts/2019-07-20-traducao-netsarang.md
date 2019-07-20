@@ -12,7 +12,7 @@ tag:
 - tradução
 comments: true
 ---
-![NetSarang logo](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/logo_netsarang.svg)    
+![NetSarang logo](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/logo_netsarang.png)    
 
 A **NetSarang Computer, Inc.** desenvolve, comercializa e suporta soluções de conectividade segura no mercado global. A empresa desenvolve uma família de software como Servidor PC X e cliente SSH para PC-para-Unix e PC-para-Linux. A empresa oferece seus produtos e serviços para mais de 90 países em todo o mundo.
 
