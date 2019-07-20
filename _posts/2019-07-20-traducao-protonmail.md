@@ -20,4 +20,4 @@ Sou responsável pela tradução de todos os programas, aplivativos e websites d
 Além disso gerencio a plataforma de tradução aprovando, reprovando e padronizando as traduções feitas por outros colaboradores.
 
 
-Se você quiser testar o e-mail criptografado do ProtonMail, [clique aqui para se registrar](https://protonmail.com/pt-br/signup)
+Se você quiser testar o e-mail criptografado do ProtonMail, [clique aqui para se registrar.](https://protonmail.com/pt-br/signup)
