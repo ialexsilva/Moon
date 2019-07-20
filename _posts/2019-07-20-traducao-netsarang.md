@@ -16,7 +16,7 @@ comments: true
 
 A **NetSarang Computer, Inc.** desenvolve, comercializa e suporta soluções de conectividade segura no mercado global. A empresa desenvolve uma família de software como Servidor PC X e cliente SSH para PC-para-Unix e PC-para-Linux. A empresa oferece seus produtos e serviços para mais de 90 países em todo o mundo.
 
-##### Sou responsável pela tradução de todos os programas, aplivativos e websites da NetSarang.
+**Sou responsável pela tradução de todos os programas, aplivativos e websites da NetSarang.**
 
 ------------
 
