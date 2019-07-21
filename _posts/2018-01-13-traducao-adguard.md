@@ -15,9 +15,11 @@ comments: true
 
 **AdGuard** é mais do que só um bloqueador de anúncios, ele é um canivete suiço composto com diversas ferramentas que ajudam no gerenciamento e controle do que entra e sai no fluxo da sua rede.
 
-Meu trabalho no AdGuard é na i18n (Internacionalização) para o português brasileiro. 
+<figure>
+	<a href="https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/screenadguard.png"><img src="https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/screenadguard.png"></a>
+</figure>
 
-Sou responsavél por traduzir todos os produtos do AdGuard e o site.
+Meu trabalho no AdGuard é na i18n (Internacionalização) para o português brasileiro. Sou responsavél por traduzir todos os produtos do AdGuard, incluindo o site.
 
 Além disso gerencio a plataforma de tradução aprovando, reprovando e padronizando as traduções feitas por outros colaboradores.
 
