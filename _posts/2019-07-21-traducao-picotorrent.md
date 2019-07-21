@@ -15,6 +15,14 @@ comments: true
 
 O **PicoTorrent** é um pequeno cliente BitTorrent para Windows com baixo uso de memória, alto desempenho e uma interface de usuário nativa.
 
+**Recursos:**
+- Forte criptografia com suporte para tunelamento via I2P, SOCKS4, SOCKS5 e HTTP(S)
+- Suporte para  IPv4 e IPv6
+- Interface com suporte para varios idiomas
+- Livre, open source, com uma ótima comunidade
+
+------------
+
 Efetuei 100% da tradução do programa para o Português Brasileiro.
 
 Se você quiser testar este excelente cliente torrent, [clique aqui efetuar o download.](https://picotorrent.org/download/)
