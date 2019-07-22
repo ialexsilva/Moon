@@ -23,4 +23,4 @@ O **iTools** é um software para os sistemas Windows e Mac OS X que permite aces
 
 Efetuei 100% da tradução do programa para o Português Brasileiro.
 
-Se você quiser testar o iTools, [clique aqui efetuar o download.](https://www.thinkskysoft.com/)
+O iTools é um software pago, mas se você quiser experimentar, [clique aqui](https://www.thinkskysoft.com/)
