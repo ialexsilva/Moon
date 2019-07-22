@@ -33,6 +33,7 @@ O **Halite** é um cliente BitTorrent de código aberto e é baseado na excelent
 - Capacidade de editar rastreadores especificados no torrent.
 - Capacidade de criar arquivos torrent.
 - Randomização de porta e encaminhamento (UnPlug e Play ou NAT-PMP).
+
 ------------
 
 Efetuei 100% da tradução do programa para o Português Brasileiro.
