@@ -11,7 +11,7 @@ tag:
 - tradução
 comments: true
 ---
-![IFME logo](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/logo_halite.png)    
+![IFME logo](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/logo_ifme.png)    
 
 O **Internet Friendly Media Encoder** é um codificador de vídeo que é capaz de comprimir até 50% da taxa de bits comparada com a compressão de vídeo de geração atual mantendo a mesma qualidade, isso significa que você pode encolher o tamanho do arquivo e a qualidade permanece a mesma! Você pode economizar espaço em disco e muito mais!
 
