@@ -37,4 +37,4 @@ O **Smart Launcher** é o launcher inovador que torna seu smartphone ou tablet m
 
 Efetuei 100% da tradução do programa para o Português Brasileiro.
 
-Se você quiser testar este excelente cliente torrent, [clique aqui efetuar o download.](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
+Se você quiser testar no seu Android, [clique aqui baixar no Google Play.](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
