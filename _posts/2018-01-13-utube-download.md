@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-![uTube Download Logo](https://utubedownload.me/img/logoutube.png)
+![uTube Download Logo](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/logoutube.png)
 
 Em 2010 criei um programa chamado **YT Downloader** que era exclusivo para Windows. O funcionamento dele era basicamente fazer o download de vídeo e áudio do YouTube de uma forma simples.
 
@@ -21,10 +21,12 @@ Em 2010 criei um programa chamado **YT Downloader** que era exclusivo para Windo
 
 Com o tempo as aplicações web se tornaram populares e surgiram varios outros concorrentes do YT Download totalmente integrado ao navegador. Levando esses fatores em conta acabei decidindo que era melhor interromper o desenvolvimento do YT Downloader e focar em uma aplicação web.
 
-Foram mais de 3 anos de desenvolvimento, mais ele finalmente está disponivel. **[uTube Download](https://utubedownload.me)** Robusto e ainda muito melhor do que antes, suportando o download de até 700 sites de mídia.
+Foram mais de 3 anos de desenvolvimento, mais ele finalmente está disponivel. **[uTube Download](https://utubedownload.net)** Robusto e ainda muito melhor do que antes, suportando o download de até 700 sites de mídia.
 
-![Screenshot site do uTube Download](https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/screenshot_utube_site.png)
+<figure>
+	<a href="https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/screenshot_utube_site.png"><img src="https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/screenshot_utube_site.png"></a>
+</figure>
 
-Acesse agora mesmo o site do [uTube Download](https://utubedownload.me) e faça o download do seus vídeos e músicas favoritas.
+Acesse agora mesmo o site do [uTube Download](https://utubedownload.net) e faça o download do seus vídeos e músicas favoritas.
 
 
