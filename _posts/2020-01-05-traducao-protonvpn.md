@@ -16,7 +16,7 @@ comments: true
 O **ProtonVPN** é desenvolvido pelos mesmos engenheiros do CERN e do MIT que criaram o ProtonMail, o maior serviço de e-mail criptografado do mundo. Nossa missão é construir uma Internet melhor, tornando a privacidade e a segurança acessíveis a todos.
 
 <figure>
-	<a href="https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/screenprotonmail.png"><img src="https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/screenprotonmail.png"></a>
+	<a href="https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/protonvpn_website.png"><img src="https://github.com/ialexsilva/ialexsilva.github.io/raw/master/assets/img/protonvpn_website.png"></a>
 </figure>
 
 Sou responsável pela tradução de todos os programas, aplivativos e websites do ProtonVPN.
